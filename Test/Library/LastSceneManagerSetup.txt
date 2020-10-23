@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Full Body FPS Controller/Full Body FPS Controller/Scenes/FPS Controller.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
