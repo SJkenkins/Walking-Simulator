@@ -15,11 +15,11 @@ F:/master/walking sim/Walking-Simulator/Walking Sim URP
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52178
+53239
 Successfully changed project path to: F:/master/walking sim/Walking-Simulator/Walking Sim URP
 F:/master/walking sim/Walking-Simulator/Walking Sim URP
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 51.83 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 52.91 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b7 (1b1252580c64)
 [Subsystems] Discovering subsystems at path F:/logiciels/unity/2020.2.0b7/Editor/Data/Resources/UnitySubsystems
@@ -35,391 +35,69 @@ Initialize mono
 Mono path[0] = 'F:/logiciels/unity/2020.2.0b7/Editor/Data/Managed'
 Mono path[1] = 'F:/logiciels/unity/2020.2.0b7/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'F:/logiciels/unity/2020.2.0b7/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: F:/logiciels/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000820 seconds.
+Registered in 0.000825 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 57.04 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 50.25 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.893 seconds
+- Completed reload, in  0.878 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001074 seconds.
+Registered in 0.001965 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image F:\master\walking sim\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 52.19 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 63.08 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.957 seconds
+- Completed reload, in  1.219 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2323 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 111.1 MB.
-System memory in use after: 108.9 MB.
+Unloading 2371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.2 MB.
+System memory in use after: 114.6 MB.
 
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 2737.
-Total: 4.327400 ms (FindLiveObjects: 0.556000 ms CreateObjectMapping: 0.284300 ms MarkObjects: 2.120600 ms  DeleteObjects: 1.364900 ms)
-
-========================================================================
-Received Import Request.
-  path: Packages/com.unity.mathematics
-  artifactKey: Guid(795e97ad99e2f6ffd2060ae1983b6f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.mathematics using Guid(795e97ad99e2f6ffd2060ae1983b6f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bc503d7c301848703282c42a8ab29c') in 0.009028 seconds
-  Import took 0.014381 seconds .
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2795.
+Total: 4.096900 ms (FindLiveObjects: 0.572200 ms CreateObjectMapping: 0.267700 ms MarkObjects: 2.133800 ms  DeleteObjects: 1.122000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Packages/com.unity.ide.visualstudio
-  artifactKey: Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.ide.visualstudio using Guid(9db636ca49aa246019dd93b7c8b689f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c4399e32c602cb3fee026148a7ecb6') in 0.006369 seconds
-  Import took 0.012621 seconds .
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes/Floor.prefab
+  artifactKey: Guid(045e0d2e71c04d34fb9b7da2d1608a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes/Floor.prefab using Guid(045e0d2e71c04d34fb9b7da2d1608a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68972a594fc500ca8f3b42b54bb77c7a') in 0.239871 seconds
+  Import took 0.245285 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000294 seconds.
-  path: Packages/com.unity.ext.nunit
-  artifactKey: Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.ext.nunit using Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '679fcbfc753dadcaf1695f365749fd8c') in 0.007436 seconds
-  Import took 0.015433 seconds .
+  Time since last request: 95.213868 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes/Rectangle.prefab
+  artifactKey: Guid(9af08aca8f0a97d419deebebd3d4d6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes/Rectangle.prefab using Guid(9af08aca8f0a97d419deebebd3d4d6ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7991a8e658cdf5b0788ff9dfb8c98cb') in 0.019241 seconds
+  Import took 0.024555 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Packages/com.unity.searcher
-  artifactKey: Guid(80f043ea1b361efa48c82eff6a154ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.searcher using Guid(80f043ea1b361efa48c82eff6a154ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd82f733c8d5aa4a24d8b3adafec13da1') in 0.009924 seconds
-  Import took 0.016895 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Packages/com.unity.collab-proxy
-  artifactKey: Guid(1adad61bfb44214ee3e887b5febc4396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.collab-proxy using Guid(1adad61bfb44214ee3e887b5febc4396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a502b068c884134ac0ebe7bcf9e3465a') in 0.006253 seconds
-  Import took 0.013447 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000510 seconds.
-  path: Packages/com.unity.render-pipelines.universal
-  artifactKey: Guid(87f3e00faee74b02e6227b1c727beb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.universal using Guid(87f3e00faee74b02e6227b1c727beb50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b328521c4f52296d7a8336e917c3b08') in 0.008364 seconds
-  Import took 0.016527 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000345 seconds.
-  path: Packages/com.unity.ide.vscode
-  artifactKey: Guid(1c61a04a5b7737c4d16673d64be4194e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.ide.vscode using Guid(1c61a04a5b7737c4d16673d64be4194e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9134dbe2001a4418475a105cb3ef3f') in 0.006772 seconds
-  Import took 0.013278 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Packages/com.unity.test-framework
-  artifactKey: Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.test-framework using Guid(6023f2b823fc19b4e4a90875281ff117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f1305870dee6d7e89a1b62aae2d9bf') in 0.008767 seconds
-  Import took 0.015939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Packages/com.unity.ugui
-  artifactKey: Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.ugui using Guid(8f7652e09069a1943278893d4264401e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f2bdf95892d1b9b35dfb00567f28d5') in 0.006782 seconds
-  Import took 0.013977 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Packages/com.unity.shadergraph
-  artifactKey: Guid(e7bcc7ca0c1a2a5e608ecad153be0f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.shadergraph using Guid(e7bcc7ca0c1a2a5e608ecad153be0f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f38a91537bb310017ce86bf930797b') in 0.008698 seconds
-  Import took 0.015965 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000216 seconds.
-  path: Packages/com.unity.ide.rider
-  artifactKey: Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.ide.rider using Guid(ea5aa18a49e4f29d74984ea0ea11a238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac0588c7db990ec26ffb294cf011275') in 0.006439 seconds
-  Import took 0.013118 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Packages/com.unity.textmeshpro
-  artifactKey: Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.textmeshpro using Guid(cabaa672b0e3ee91fa7b6da4daab7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e021b1b00d34b6ee784162acccb742c') in 0.008737 seconds
-  Import took 0.015759 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Packages/com.unity.render-pipelines.core
-  artifactKey: Guid(fa2fec639fb8149193707851fce7d38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.render-pipelines.core using Guid(fa2fec639fb8149193707851fce7d38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd5c4829437391d5e45702609537e606') in 0.007498 seconds
-  Import took 0.014803 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000252 seconds.
-  path: Packages/com.unity.timeline
-  artifactKey: Guid(a4610cf559d77b9f256416d9ccaeac55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.timeline using Guid(a4610cf559d77b9f256416d9ccaeac55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ae48229837a88c86c7c9473deba3b2c') in 0.008155 seconds
-  Import took 0.014726 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.604941 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Barrels
-  artifactKey: Guid(5e08619e167fbc04ea4c8c676ef68107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Barrels using Guid(5e08619e167fbc04ea4c8c676ef68107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09be713d5701e6187c8db064e0eddfc') in 0.005515 seconds
-  Import took 0.011388 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Assets_showcase_scene.unity
-  artifactKey: Guid(a8f7c31154bcc5e409be7f1bb14f0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Assets_showcase_scene.unity using Guid(a8f7c31154bcc5e409be7f1bb14f0b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3525dc0a09927d887fdbab148af2f82f') in 0.022536 seconds
-  Import took 0.029116 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Fences
-  artifactKey: Guid(7023b9abea554d24f8838b3e467e6a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Fences using Guid(7023b9abea554d24f8838b3e467e6a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd08a711c76e85547bb1c66be357feb4c') in 0.006527 seconds
-  Import took 0.014151 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000285 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Particles
-  artifactKey: Guid(d46f01f719fb0b54f91e70d762f60629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Particles using Guid(d46f01f719fb0b54f91e70d762f60629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178d6fa6f5d4e54e887b74241374118f') in 0.010349 seconds
-  Import took 0.019730 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000280 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Map_v1Settings.lighting
-  artifactKey: Guid(66318cac93d6eae44b66e938dfc58d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Map_v1Settings.lighting using Guid(66318cac93d6eae44b66e938dfc58d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: 'e25725f1e19067cf16099da40e2d263c') in 0.024492 seconds
-  Import took 0.035967 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000241 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Assets_showcase_sceneSettings.lighting
-  artifactKey: Guid(81ee8d65a3784114b861712619b2da34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Assets_showcase_sceneSettings.lighting using Guid(81ee8d65a3784114b861712619b2da34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: 'a77cff2365d08f05c7df8f5fc0b571cd') in 0.007017 seconds
-  Import took 0.014590 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Other_props
-  artifactKey: Guid(04518620511ce2044aaecde8cba795ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Other_props using Guid(04518620511ce2044aaecde8cba795ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e98412c10f461692fcc32122ce2857f') in 0.007257 seconds
-  Import took 0.013730 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000212 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Containers
-  artifactKey: Guid(cd63de5b760df6248a9c2eb92b2552eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Containers using Guid(cd63de5b760df6248a9c2eb92b2552eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a86cc62075e09cfb3e12b756e23050d3') in 0.007389 seconds
-  Import took 0.014169 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Map_v1
-  artifactKey: Guid(94fdc5985e0a94447b36138bdb5bf898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Map_v1 using Guid(94fdc5985e0a94447b36138bdb5bf898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3ebea6d3d514cd1738e4277c16eda9') in 0.008491 seconds
-  Import took 0.014599 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Map_v1.unity
-  artifactKey: Guid(5a463281e6e238742a45430f11e82829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Map_v1.unity using Guid(5a463281e6e238742a45430f11e82829) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed91cb24466e4c5b957cf857480c690e') in 0.010240 seconds
-  Import took 0.016209 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000308 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Buildings
-  artifactKey: Guid(a72a9631e12630c48853eb7cdbf86ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Buildings using Guid(a72a9631e12630c48853eb7cdbf86ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e669068f83a630db8af82401bf0ff809') in 0.007936 seconds
-  Import took 0.014431 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Oil_tanks
-  artifactKey: Guid(ef06f69ba4a21a341a36bceef9fff394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Oil_tanks using Guid(ef06f69ba4a21a341a36bceef9fff394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd634e149fc19f3d678bd87bfc4c8cd1e') in 0.007528 seconds
-  Import took 0.013787 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Dumpsters
-  artifactKey: Guid(062eb9e9ae635e54ab2034c2a84107b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Dumpsters using Guid(062eb9e9ae635e54ab2034c2a84107b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b81de6d69674fb543807fae8346d5d6') in 0.006008 seconds
-  Import took 0.011778 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Textures
-  artifactKey: Guid(fb80605a518b6e24098300d0fcb1e0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Textures using Guid(fb80605a518b6e24098300d0fcb1e0ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18dcd8236b42ed4c61b736837b30d73') in 0.007665 seconds
-  Import took 0.015471 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Boxes
-  artifactKey: Guid(8ec65bee3ba4fe246be437af1457c34b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Boxes using Guid(8ec65bee3ba4fe246be437af1457c34b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b240660fed17638e780d7db4135b21c') in 0.006508 seconds
-  Import took 0.012862 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000240 seconds.
-  path: Assets/RPG_FPS_game_assets_industrial/Roads
-  artifactKey: Guid(17ba308a597e27f4e9012b5cd729f02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RPG_FPS_game_assets_industrial/Roads using Guid(17ba308a597e27f4e9012b5cd729f02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2be513376ab3f0237d889725603f7e0') in 0.008559 seconds
-  Import took 0.015305 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.574655 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller
-  artifactKey: Guid(85a191ae102f11548b9caf68e0eaf48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller using Guid(85a191ae102f11548b9caf68e0eaf48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e8f13b88a6512d42a64e26677c6135') in 0.005895 seconds
-  Import took 0.011698 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000256 seconds.
-  path: Assets/Full Body FPS Controller/Easy Survival Scripts - Documentation.pdf
-  artifactKey: Guid(e6e02c609a9bc04408c12589f9dff8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Easy Survival Scripts - Documentation.pdf using Guid(e6e02c609a9bc04408c12589f9dff8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0758cf59268661c3408eb65e586ab630') in 0.011283 seconds
-  Import took 0.016841 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.914030 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Animations
-  artifactKey: Guid(d2c1ce6edbd82634ebf246becac164ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Animations using Guid(d2c1ce6edbd82634ebf246becac164ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec7ac234ebe962d132221f58fa9dfe0d') in 0.011359 seconds
-  Import took 0.019513 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes
-  artifactKey: Guid(94d3ffad25df9184991d007c4651f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes using Guid(94d3ffad25df9184991d007c4651f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937663be1811eb33de3280d2722cedbb') in 0.007918 seconds
-  Import took 0.015408 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets
-  artifactKey: Guid(dfcd47caacdaeb24cb902093be8fd5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets using Guid(dfcd47caacdaeb24cb902093be8fd5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14fd8c8e101cab7b7b45bef6aa5a5a4b') in 0.010377 seconds
-  Import took 0.015923 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Sounds
-  artifactKey: Guid(b6fcda89c6842a643babcaba30a7f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Sounds using Guid(b6fcda89c6842a643babcaba30a7f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4cf5330cee68d69626e89e3faf82e1a') in 0.007212 seconds
-  Import took 0.012686 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Font
-  artifactKey: Guid(8206af4f205ad4d4e85ac5a8825378bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Font using Guid(8206af4f205ad4d4e85ac5a8825378bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e89ae541327c13dd6199e5fa46bb711') in 0.008721 seconds
-  Import took 0.016254 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000747 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Scenes
-  artifactKey: Guid(497ed122b76155a4b9bdf430b30cf248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Scenes using Guid(497ed122b76155a4b9bdf430b30cf248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53a63c7b6c9b2588bafaff8e08e99c9') in 0.006285 seconds
-  Import took 0.011791 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Scripts
-  artifactKey: Guid(750d8ef4b30a9fb46a1a2ff9e763b073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Scripts using Guid(750d8ef4b30a9fb46a1a2ff9e763b073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b6645b8722698814f7e21ecac2996a') in 0.007679 seconds
-  Import took 0.014610 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000701 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs
-  artifactKey: Guid(283fc959399a5a94087a840ccb486eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs using Guid(283fc959399a5a94087a840ccb486eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892a3e2f677ee4cd1628e1203de31203') in 0.007358 seconds
-  Import took 0.015014 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 49.803031 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Font/Asap-Medium.otf
-  artifactKey: Guid(f79c0638c9ad24986acd8d34c0e20256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Font/Asap-Medium.otf using Guid(f79c0638c9ad24986acd8d34c0e20256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452713ee087c4224760388c5523a3d33') in 0.114682 seconds
-  Import took 0.119783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.635292 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Ethan.prefab
-  artifactKey: Guid(276048d2ee70e2a41b03820dc34e5366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Ethan.prefab using Guid(276048d2ee70e2a41b03820dc34e5366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e87b92b68171e5a185c4265689ae99') in 0.555396 seconds
-  Import took 0.562854 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Robo.prefab
-  artifactKey: Guid(7c19aa052486f2946a27359d5b224ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Robo.prefab using Guid(7c19aa052486f2946a27359d5b224ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f404b86970ee94adddb79d3c41a37ff') in 0.259909 seconds
-  Import took 0.265410 seconds .
+  Time since last request: 2.739815 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes/Wall.prefab
+  artifactKey: Guid(fcda2f954b787594c904e8fe48aa4478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes/Wall.prefab using Guid(fcda2f954b787594c904e8fe48aa4478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa0d316618c5e3ddeaad9bb7b0bb8343') in 0.018836 seconds
+  Import took 0.025019 seconds .
 
 ========================================================================
 Received Prepare
@@ -427,39 +105,39 @@ Reloading mono domain
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: F:/logiciels/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000741 seconds.
+Registered in 0.000747 seconds.
 Symbol file LoadedFromMemory doesn't match image F:\master\walking sim\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 48.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 50.44 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.955 seconds
+- Completed reload, in  0.979 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001349 seconds.
+Registered in 0.001105 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image F:\master\walking sim\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.850 seconds
+- Completed reload, in  0.872 seconds
 Platform modules already initialized, skipping
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 95 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 73.6 MB.
-System memory in use after: 72.0 MB.
+Unloading 37 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.5 MB.
+System memory in use after: 72.9 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2843.
-Total: 3.740300 ms (FindLiveObjects: 0.587900 ms CreateObjectMapping: 0.112900 ms MarkObjects: 1.933600 ms  DeleteObjects: 1.104700 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2857.
+Total: 4.573500 ms (FindLiveObjects: 0.556100 ms CreateObjectMapping: 0.253200 ms MarkObjects: 2.564200 ms  DeleteObjects: 1.199200 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
