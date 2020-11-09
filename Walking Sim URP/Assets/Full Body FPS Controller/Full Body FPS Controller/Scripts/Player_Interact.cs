@@ -6,20 +6,43 @@ using UnityEngine.Events;
 public class Player_Interact : MonoBehaviour
 {
 
-    public float rayLength = 10;
-    public int layerInteraction;
+    public float range = 10f;
+    public Camera fpsCam;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        layerInteraction = LayerMask.NameToLayer("Interactable");
+    //    layerInteraction = LayerMask.NameToLayer("Interactable");
     }
 
     // Update is called once per frame
     void Update()
     {
-        Ray ray = new Ray(transform.position, transform.forward);
+        RaycastHit hit;
+        if (Physics.Raycast(fpsCam.transform.position, fpsCam.transform.forward, out hit, range))
+        {
+            Target target = hit.transform.GetComponent<Target>();
+            if (target != null)
+            {
+                target.Shine();
+            }
+        }
+        else
+        {
+            Target.StopShine();
+        }
+
+    }
+}
+
+
+
+//Mick Manc
+
+/*
+
+     Ray ray = new Ray(transform.position, transform.forward);
         RaycastHit hit;
 
         if (Physics.Raycast(ray, 100, ray.direction*rayLength, out hit))
@@ -37,6 +60,4 @@ public class Player_Interact : MonoBehaviour
                 }
             }
         }
-
-    }
-}
+ */
