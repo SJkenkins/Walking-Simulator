@@ -4,17 +4,18 @@ using UnityEngine;
 
 public class Target : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public bool shine;
+
+  
     public void Shine()
     {
-        Debug.Log("vasyyyy");
+        shine = true;
+        GetComponent<Outline>().enabled = true;
+    }
 
-
-            var outline = gameObject.AddComponent<Outline>();
-
-            outline.OutlineMode = Outline.Mode.OutlineAll;
-            outline.OutlineColor = Color.white;
-            outline.OutlineWidth = 5f;
-        
+    public void StopShine()
+    {
+        shine = false;
+        GetComponent<Outline>().enabled = false;
     }
 }
