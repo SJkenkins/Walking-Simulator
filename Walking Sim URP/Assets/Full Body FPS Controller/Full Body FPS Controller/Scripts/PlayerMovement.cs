@@ -63,7 +63,7 @@ namespace EasySurvivalScripts
             HandlePlayerControls();
 
             //sync animations with controller
-            SetCharacterAnimations();
+          //  SetCharacterAnimations();
 
             //sync footsteps with controller
             PlayFootstepSounds();
@@ -133,7 +133,7 @@ namespace EasySurvivalScripts
 
         }
 
-        void SetCharacterAnimations()
+       /* void SetCharacterAnimations()
         {
             if (!CharacterAnimator)
                 return;
@@ -167,8 +167,8 @@ namespace EasySurvivalScripts
             LandAnimation = characterController.isGrounded;
             CharacterAnimator.SetFloat("Horizontal", HorzAnimation);
             CharacterAnimator.SetFloat("Vertical", VertAnimation);
-            CharacterAnimator.SetBool("isGrounded", LandAnimation);
-        }
+            CharacterAnimator.SetBool("isGrounded", LandAnimation); 
+        } */
 
         bool onGround()
         {
