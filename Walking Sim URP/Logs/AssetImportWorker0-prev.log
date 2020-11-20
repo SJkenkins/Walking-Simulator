@@ -1,4 +1,5 @@
 Using pre-set license
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Built from '2020.2/staging' branch; Version is '2020.2.0b7 (1b1252580c64) revision 1774162'; Using compiler version '192528614'; Build Type 'Release'
 OS: 'Windows 10  (10.0.0) 64bit' Language: 'fr' Physical Memory: 8147 MB
@@ -7,19 +8,26 @@ BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, I
  COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\2020.2.0b7\Editor\Unity.exe
 =======
+=======
+>>>>>>> master
 Built from '2020.2/staging' branch; Version is '2020.2.0b10 (19f63eee530c) revision 1701438'; Using compiler version '192528614'; Build Type 'Release'
 OS: 'Windows 10  (10.0.0) 64bit' Language: 'fr' Physical Memory: 16352 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
+<<<<<<< HEAD
 C:\Program Files\Unity\Hub\Editor\2020.2.0b10\Editor\Unity.exe
 >>>>>>> Stashed changes
+=======
+D:\master\Platformer\Platformer\2020.2.0b10\Editor\Unity.exe
+>>>>>>> master
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 C:/Users/Freck/Desktop/Walking Simulator/Walking Sim URP
 -logFile
@@ -30,6 +38,17 @@ Successfully changed project path to: C:/Users/Freck/Desktop/Walking Simulator/W
 C:/Users/Freck/Desktop/Walking Simulator/Walking Sim URP
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 111.46 ms, found 0 plugins.
+=======
+D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58984
+Successfully changed project path to: D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
+D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 102.80 ms, found 0 plugins.
+>>>>>>> master
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b7 (1b1252580c64)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b7/Editor/Data/Resources/UnitySubsystems
@@ -39,6 +58,7 @@ Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
     Vendor:   
+<<<<<<< HEAD
     VRAM:     2987 MB
     Driver:   27.21.14.5167
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
@@ -73,8 +93,12 @@ Direct3D:
     Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
     Vendor:   
     VRAM:     1977 MB
+=======
+    VRAM:     6052 MB
+>>>>>>> master
     Driver:   27.21.14.5730
 Initialize mono
+<<<<<<< HEAD
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/MonoBleedingEdge/etc'
@@ -85,24 +109,51 @@ Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/
 Registered in 0.003402 seconds.
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 72.93 ms, found 0 plugins.
+=======
+Mono path[0] = 'D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Managed'
+Mono path[1] = 'D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002212 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 72.39 ms, found 0 plugins.
+>>>>>>> master
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  2.099 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 Registered in 0.003043 seconds.
+=======
+- Completed reload, in  2.427 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.047059 seconds.
+>>>>>>> master
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\Sauvegarde\Documents\Cours_AMINJ\M2\Walking Sim\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 68.04 ms, found 0 plugins.
+=======
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 72.10 ms, found 0 plugins.
+>>>>>>> master
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.469 seconds
 Platform modules already initialized, skipping
 ========================================================================
@@ -3157,3 +3208,7 @@ Start importing Assets/_Pack/___PREFABS___/wooden_platform_2.prefab using Guid(7
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
 >>>>>>> Stashed changes
+=======
+- Completed reload, in  1.635 seconds
+Platform modules already initialized, skipping
+>>>>>>> master

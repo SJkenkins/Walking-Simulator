@@ -9,8 +9,8 @@ public class Target : MonoBehaviour
   
     public void Shine()
     {
-        shine = true;
-        GetComponent<Outline>().enabled = true;
+            shine = true;
+            GetComponent<Outline>().enabled = true;   
     }
 
     public void StopShine()
