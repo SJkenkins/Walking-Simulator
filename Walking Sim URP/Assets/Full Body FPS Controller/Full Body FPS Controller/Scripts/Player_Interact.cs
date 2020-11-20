@@ -12,6 +12,8 @@ public class Player_Interact : MonoBehaviour
 
     Target target;
 
+    Key key;
+
 
     // Start is called before the first frame update
     void Start()
@@ -28,6 +30,12 @@ public class Player_Interact : MonoBehaviour
         {
             target = hit.transform.GetComponent<Target>();
             target.Shine();
+
+            if (Input.GetMouseButtonDown(0)== true && target.gameObject.layer == LayerMask.NameToLayer("Key"))
+            {
+                key = hit.transform.GetComponent<Key>();
+                key.TakeKey();
+            }
             
         }
         else if (target!=null && target.shine==true)

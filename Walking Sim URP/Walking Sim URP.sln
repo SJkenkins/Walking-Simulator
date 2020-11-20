@@ -1,25 +1,15 @@
 ﻿
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-=======
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
->>>>>>> Stashed changes
-=======
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
->>>>>>> master
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnity", "FMODUnity.csproj", "{3505FAEB-F067-0E31-5651-44D179576159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonance", "FMODUnityResonance.csproj", "{B60928CF-A383-A011-5BEE-F5AFCC0D951F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{A49F53E5-8F23-4A24-7454-9D80AEF49528}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityEditor", "FMODUnityEditor.csproj", "{6D06D056-1962-F3FC-6E8B-038A112FF77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{A49F53E5-8F23-4A24-7454-9D80AEF49528}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonanceEditor", "FMODUnityResonanceEditor.csproj", "{973B5C16-73AB-8572-7FA2-1585C3297202}"
 EndProject
@@ -29,26 +19,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3505FAEB-F067-0E31-5651-44D179576159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3505FAEB-F067-0E31-5651-44D179576159}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3505FAEB-F067-0E31-5651-44D179576159}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3505FAEB-F067-0E31-5651-44D179576159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B50EEDA-0E36-29DD-95EB-C5AF33960DA6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B60928CF-A383-A011-5BEE-F5AFCC0D951F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B60928CF-A383-A011-5BEE-F5AFCC0D951F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60928CF-A383-A011-5BEE-F5AFCC0D951F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60928CF-A383-A011-5BEE-F5AFCC0D951F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6D06D056-1962-F3FC-6E8B-038A112FF77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6D06D056-1962-F3FC-6E8B-038A112FF77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D06D056-1962-F3FC-6E8B-038A112FF77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D06D056-1962-F3FC-6E8B-038A112FF77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49F53E5-8F23-4A24-7454-9D80AEF49528}.Release|Any CPU.Build.0 = Release|Any CPU
 		{973B5C16-73AB-8572-7FA2-1585C3297202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{973B5C16-73AB-8572-7FA2-1585C3297202}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{973B5C16-73AB-8572-7FA2-1585C3297202}.Release|Any CPU.ActiveCfg = Release|Any CPU

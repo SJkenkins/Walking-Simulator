@@ -1,67 +1,25 @@
 Using pre-set license
 Built from '2020.2/staging' branch; Version is '2020.2.0b10 (19f63eee530c) revision 1701438'; Using compiler version '192528614'; Build Type 'Release'
-<<<<<<< HEAD
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'fr' Physical Memory: 16352 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
-
- COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.2.0b10\Editor\Unity.exe
-=======
 OS: 'Windows 10  (10.0.0) 64bit' Language: 'fr' Physical Memory: 8159 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
 D:\master\Platformer\Platformer\2020.2.0b10\Editor\Unity.exe
->>>>>>> master
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-<<<<<<< HEAD
-D:/Sauvegarde/Documents/Cours_AMINJ/M2/Walking Sim/Walking-Simulator/Walking Sim URP
--logFile
-Logs/AssetImportWorker0.log
--srvPort
-56967
-Successfully changed project path to: D:/Sauvegarde/Documents/Cours_AMINJ/M2/Walking Sim/Walking-Simulator/Walking Sim URP
-D:/Sauvegarde/Documents/Cours_AMINJ/M2/Walking Sim/Walking-Simulator/Walking Sim URP
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 89.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.2.0b10 (19f63eee530c)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Sauvegarde/Documents/Cours_AMINJ/M2/Walking Sim/Walking-Simulator/Walking Sim URP/Assets
-GfxDevice: creating device client; threaded=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
-    Vendor:   
-    VRAM:     1977 MB
-    Driver:   27.21.14.5730
-Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56212
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004176 seconds.
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 85.78 ms, found 0 plugins.
-=======
 D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59470
+59929
 Successfully changed project path to: D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
 D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 72.31 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 202.70 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b10 (19f63eee530c)
 [Subsystems] Discovering subsystems at path D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Resources/UnitySubsystems
@@ -78,95 +36,1755 @@ Initialize mono
 Mono path[0] = 'D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Managed'
 Mono path[1] = 'D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56660
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56236
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002141 seconds.
+Registered in 0.008017 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 117.97 ms, found 0 plugins.
->>>>>>> master
+Refreshing native plugins compatible for Editor in 100.16 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  1.786 seconds
+- Completed reload, in  4.294 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004026 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\Sauvegarde\Documents\Cours_AMINJ\M2\Walking Sim\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 82.23 ms, found 0 plugins.
-=======
-- Completed reload, in  2.411 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.001980 seconds.
+Registered in 0.014793 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 149.48 ms, found 0 plugins.
->>>>>>> master
+Refreshing native plugins compatible for Editor in 107.46 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  1.552 seconds
+- Completed reload, in  1.851 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 1.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2394 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 117.9 MB.
-System memory in use after: 117.8 MB.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.0 MB.
+System memory in use after: 69.9 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2839.
-Total: 3.167500 ms (FindLiveObjects: 0.450700 ms CreateObjectMapping: 0.178300 ms MarkObjects: 2.318600 ms  DeleteObjects: 0.217400 ms)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 2900.
+Total: 29.793500 ms (FindLiveObjects: 0.434400 ms CreateObjectMapping: 0.122300 ms MarkObjects: 28.979200 ms  DeleteObjects: 0.255200 ms)
 
 ========================================================================
 Received Import Request.
+  path: Assets/Plugins
+  artifactKey: Guid(de2296c95ea741d4f9806388ff7f0400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(de2296c95ea741d4f9806388ff7f0400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'affe263b30a581a1a575ef5500c29c84') in 0.037252 seconds
+  Import took 0.070289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Old_USSR_Lamp
+  artifactKey: Guid(c8adb4b3e762f5c4c8ff36e3f4afad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Old_USSR_Lamp using Guid(c8adb4b3e762f5c4c8ff36e3f4afad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6721d2971f0ef4ce818110d1d16f3523') in 0.019551 seconds
+  Import took 0.039330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/RPG_FPS_game_assets_industrial
+  artifactKey: Guid(4d80e4c59023b27409a2d9ae9ed50c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG_FPS_game_assets_industrial using Guid(4d80e4c59023b27409a2d9ae9ed50c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e126806f153619eb5b8e874023f38e') in 0.014817 seconds
+  Import took 0.029151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Standard Assets
+  artifactKey: Guid(472ca44fbd8a450409ebd5f33cb65952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets using Guid(472ca44fbd8a450409ebd5f33cb65952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37189731ba1761650c8b913b4d951f60') in 0.009960 seconds
+  Import took 0.018831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Book-Page Curl
+  artifactKey: Guid(03f3c4af2e3b5714094d8e5a86b50707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl using Guid(03f3c4af2e3b5714094d8e5a86b50707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc62fa9b991e97edf9d6bfcb26dce68') in 0.009513 seconds
+  Import took 0.015169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Full Body FPS Controller
+  artifactKey: Guid(d8facd858595bcb42aca9dc161914536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller using Guid(d8facd858595bcb42aca9dc161914536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5aee59f7bfdb45a89f8f9e56261b7df') in 0.014443 seconds
+  Import took 0.023793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/PBR_RPG_FPS_Game_Assets_industrial
+  artifactKey: Guid(9a7c63d4dbfa64242aa2efcdf6bd33d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_RPG_FPS_Game_Assets_industrial using Guid(9a7c63d4dbfa64242aa2efcdf6bd33d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3f2f727399f0cea0176b53f81d57ed') in 0.010761 seconds
+  Import took 0.025819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Textures
+  artifactKey: Guid(dd4b4d13bbf044143a108cdf25e984ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures using Guid(dd4b4d13bbf044143a108cdf25e984ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8856c01a5dc54c2b849ab6bd32c78176') in 0.010276 seconds
+  Import took 0.017337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Shipping Container Environment
+  artifactKey: Guid(4f9f8b343001e4b40b8d5aa66e3699c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shipping Container Environment using Guid(4f9f8b343001e4b40b8d5aa66e3699c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e07b7794299dc37bd9529f7d926a69') in 0.009933 seconds
+  Import took 0.019265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
   path: Assets/_Pack
   artifactKey: Guid(8bc813e8eaf9699448bf26a5ef8d87bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/_Pack using Guid(8bc813e8eaf9699448bf26a5ef8d87bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2694765bcb776039444ec7c8fe883910') in 0.019630 seconds
-  Import took 0.026302 seconds .
+Start importing Assets/_Pack using Guid(8bc813e8eaf9699448bf26a5ef8d87bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c808fea85e7518ccc9daf767e34e87') in 0.010118 seconds
+  Import took 0.016104 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001419 seconds.
+  Time since last request: 0.000677 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(37eb76a930fe19d4da44172a1794139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(37eb76a930fe19d4da44172a1794139d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84b5d5e563d264755c220a0e7488da1') in 0.213158 seconds
+  Import took 0.223352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/VertexField
+  artifactKey: Guid(9e72091c7b2557c4faf37025c71ebb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VertexField using Guid(9e72091c7b2557c4faf37025c71ebb70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861b35c74b09dfce87b49215b6a60b16') in 0.087651 seconds
+  Import took 0.094375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000901 seconds.
+  path: Assets/FireHydrant_Set
+  artifactKey: Guid(b40e98f6c89441547a9c7d6eb6f37ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FireHydrant_Set using Guid(b40e98f6c89441547a9c7d6eb6f37ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c0775ac07b4c8f905072f8be0256e9') in 0.017818 seconds
+  Import took 0.055168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Gizmos
+  artifactKey: Guid(f3a8f5ebefde285479bb3025908de7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos using Guid(f3a8f5ebefde285479bb3025908de7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d83da05f174bbd742e88d02b49f22a') in 0.017718 seconds
+  Import took 0.028420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(f9b18839634dbe54cba99962e05cba66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(f9b18839634dbe54cba99962e05cba66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0e3ada67abe52ff6297173c3c23ad1') in 0.013001 seconds
+  Import took 0.034862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
   path: Assets/MS
   artifactKey: Guid(4fdf8ee488494a449a2b7d06397612ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/MS using Guid(4fdf8ee488494a449a2b7d06397612ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9eef12c1f69effd1f00e1bc3d72fc8f') in 0.025302 seconds
-  Import took 0.031931 seconds .
+Start importing Assets/MS using Guid(4fdf8ee488494a449a2b7d06397612ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd298c372fe36618cc55232c876538ae7') in 0.014181 seconds
+  Import took 0.054886 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 3.465365 seconds.
-  path: Assets/Scenes/Level Design.unity
-  artifactKey: Guid(b44e1e05afce7eb409572bcad808ea55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level Design.unity using Guid(b44e1e05afce7eb409572bcad808ea55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8724ae7af552624aca811926536b43') in 0.023391 seconds
-  Import took 0.029462 seconds .
+  Time since last request: 0.000285 seconds.
+  path: Assets/Editor Default Resources
+  artifactKey: Guid(06b15d1ae6c78634fad275fef614c9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor Default Resources using Guid(06b15d1ae6c78634fad275fef614c9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be730768574cf29232d7df83b6c7895e') in 0.027241 seconds
+  Import took 0.035399 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002642 seconds.
+  Time since last request: 15.448384 seconds.
+  path: Assets/Scenes/Character_interact.unity
+  artifactKey: Guid(c39f9a660c83112418f305ecf317b031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Character_interact.unity using Guid(c39f9a660c83112418f305ecf317b031) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2ebe9cd0c2c328e084f397868c3005') in 0.028808 seconds
+  Import took 0.042572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
   path: Assets/Scenes/Test Carnet.unity
   artifactKey: Guid(2bb4c0a7c6485274dad6fd8f2582c5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Test Carnet.unity using Guid(2bb4c0a7c6485274dad6fd8f2582c5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8202b2da664c09f80ff62032ecc565') in 0.028765 seconds
-  Import took 0.043591 seconds .
+Start importing Assets/Scenes/Test Carnet.unity using Guid(2bb4c0a7c6485274dad6fd8f2582c5fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b129888a7d0545bd869ba69c431551e4') in 0.015849 seconds
+  Import took 0.025891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Scenes/Level Design.unity
+  artifactKey: Guid(b44e1e05afce7eb409572bcad808ea55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level Design.unity using Guid(b44e1e05afce7eb409572bcad808ea55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a06b5ca912ca310ac68e597672518d7f') in 0.010181 seconds
+  Import took 0.024835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.302073 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller
+  artifactKey: Guid(85a191ae102f11548b9caf68e0eaf48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller using Guid(85a191ae102f11548b9caf68e0eaf48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0a52d19590ff8d3b4a1a3b63b1d205') in 0.005630 seconds
+  Import took 0.036068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Full Body FPS Controller/Easy Survival Scripts - Documentation.pdf
+  artifactKey: Guid(e6e02c609a9bc04408c12589f9dff8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Easy Survival Scripts - Documentation.pdf using Guid(e6e02c609a9bc04408c12589f9dff8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9605d91c6ac98d466f7bc777b670cac') in 0.022891 seconds
+  Import took 0.032296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.165658 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Animations
+  artifactKey: Guid(d2c1ce6edbd82634ebf246becac164ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Animations using Guid(d2c1ce6edbd82634ebf246becac164ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9243c5e8ee90b3f439898cf0bfc51c95') in 0.011543 seconds
+  Import took 0.044795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes
+  artifactKey: Guid(94d3ffad25df9184991d007c4651f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prototypes using Guid(94d3ffad25df9184991d007c4651f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dad791e403cb3c8bf2fbb7a1ddeba02f') in 0.011896 seconds
+  Import took 0.018380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets
+  artifactKey: Guid(dfcd47caacdaeb24cb902093be8fd5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets using Guid(dfcd47caacdaeb24cb902093be8fd5c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd1dc51de5c2281458ef6afbde9e202d') in 0.006469 seconds
+  Import took 0.021691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Sounds
+  artifactKey: Guid(b6fcda89c6842a643babcaba30a7f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Sounds using Guid(b6fcda89c6842a643babcaba30a7f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3c23bd4d998ce3ed0a81dbc582605c4') in 0.012100 seconds
+  Import took 0.018351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Font
+  artifactKey: Guid(8206af4f205ad4d4e85ac5a8825378bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Font using Guid(8206af4f205ad4d4e85ac5a8825378bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463d0490182e2be146436dca30462467') in 0.010239 seconds
+  Import took 0.023383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Scenes
+  artifactKey: Guid(497ed122b76155a4b9bdf430b30cf248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Scenes using Guid(497ed122b76155a4b9bdf430b30cf248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c971ee2274c80ffacdb1387bf3ac7dfe') in 0.004588 seconds
+  Import took 0.024701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Scripts
+  artifactKey: Guid(750d8ef4b30a9fb46a1a2ff9e763b073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Scripts using Guid(750d8ef4b30a9fb46a1a2ff9e763b073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf3ec4e1a56d98dbf684d8b494e5f32') in 0.010621 seconds
+  Import took 0.041312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs
+  artifactKey: Guid(283fc959399a5a94087a840ccb486eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs using Guid(283fc959399a5a94087a840ccb486eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe91f61bf579e378de90dc38148617a') in 0.016958 seconds
+  Import took 0.034901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.867575 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Ethan.prefab
+  artifactKey: Guid(276048d2ee70e2a41b03820dc34e5366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Ethan.prefab using Guid(276048d2ee70e2a41b03820dc34e5366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fd2d81ce208cd5e79aa978da4c07689') in 1.079178 seconds
+  Import took 1.114739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/Player.prefab
+  artifactKey: Guid(33a3fe8825b32274fa9fde3862cfce69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/Player.prefab using Guid(33a3fe8825b32274fa9fde3862cfce69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa7e36648503a3f81c6a0e0aeb14514a') in 0.035880 seconds
+  Import took 0.079712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Robo.prefab
+  artifactKey: Guid(7c19aa052486f2946a27359d5b224ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Prefabs/FPS Controller Robo.prefab using Guid(7c19aa052486f2946a27359d5b224ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc24b4f9e1d0f717eb813f2c62d8a4a7') in 0.063524 seconds
+  Import took 0.083592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.335906 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0911560bcf6755089567fe7ddc1901d5') in 0.018968 seconds
+  Import took 0.040327 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007314 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 143.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.112 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.060386 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  1.598 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 2952.
+Total: 3.371400 ms (FindLiveObjects: 0.502100 ms CreateObjectMapping: 0.140300 ms MarkObjects: 2.496400 ms  DeleteObjects: 0.230300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.478062 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(ee98b31e1539cb747a13b8273cd96e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(ee98b31e1539cb747a13b8273cd96e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b31aa118c113cd139b45987e62cb97f') in 0.007216 seconds
+  Import took 0.036665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.236016 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61be675b23991631ded31addd00ed130') in 0.330658 seconds
+  Import took 0.338104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.275379 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd34d8da1492d293fd82e20f2a428c2') in 0.043493 seconds
+  Import took 0.060882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.068653 seconds.
+  path: Assets/Rust Key
+  artifactKey: Guid(f920a6640e621e24bbd0af399989efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key using Guid(f920a6640e621e24bbd0af399989efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb7bee551a2df576700a8fb2822a339d') in 0.014151 seconds
+  Import took 0.053338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.087115 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Audio/keycard_pickUp.ogg
+  artifactKey: Guid(a710a0cfdfda58249902f804d6c9ffb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Audio/keycard_pickUp.ogg using Guid(a710a0cfdfda58249902f804d6c9ffb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca454f5244f57474b4f9017af318e9e') in 0.326083 seconds
+  Import took 0.358175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Rust Key/Textures/rust_key_Albedo.png
+  artifactKey: Guid(5bd6483ca03c6af49819f42e9546af01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Textures/rust_key_Albedo.png using Guid(5bd6483ca03c6af49819f42e9546af01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93bdde7d3b029d207ea4138dfe11738') in 0.095545 seconds
+  Import took 0.167107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/Rust Key/Textures/rust_key_Specular.png
+  artifactKey: Guid(52677d52f236f71418c3f498e0fc9695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Textures/rust_key_Specular.png using Guid(52677d52f236f71418c3f498e0fc9695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a081839962e6bfabaa9ce58f254361') in 0.037396 seconds
+  Import took 0.061004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Rust Key/Textures/rust_key_Roughness.png
+  artifactKey: Guid(c72ad8a32b08a9147999f3928803c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Textures/rust_key_Roughness.png using Guid(c72ad8a32b08a9147999f3928803c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00414ed1fec76e6dd4517c4a9d991794') in 0.033491 seconds
+  Import took 0.050748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Materials/prop_keycard_plastic_mat.mat
+  artifactKey: Guid(0ab120f92eecd32488408982c7a8dcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Materials/prop_keycard_plastic_mat.mat using Guid(0ab120f92eecd32488408982c7a8dcd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be2677a62d209ce47b3fff571977e60') in 0.506001 seconds
+  Import took 0.541018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Textures/prop_keycard_dff.tif
+  artifactKey: Guid(eb4c911b6d749f843a3f52c3f0f201e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Textures/prop_keycard_dff.tif using Guid(eb4c911b6d749f843a3f52c3f0f201e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d7b0e3c77b87501529f6673c3240187') in 0.058221 seconds
+  Import took 0.079707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Rust Key/Prefabs/rust_key.prefab
+  artifactKey: Guid(78df1db2fbc8ec64f949fac0c05bf693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Prefabs/rust_key.prefab using Guid(78df1db2fbc8ec64f949fac0c05bf693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4398bb890209b1dc019ddf337d9c6342') in 0.294155 seconds
+  Import took 0.328448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Rust Key/Textures/rust_key_Metalness.png
+  artifactKey: Guid(ae3d3bc9a246cb74e918dba5a7fe89d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Textures/rust_key_Metalness.png using Guid(ae3d3bc9a246cb74e918dba5a7fe89d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ffa28cd87ece8014da5ad6fcee5f58') in 0.025972 seconds
+  Import took 0.038526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Rust Key/Textures/rust_key_Normal.png
+  artifactKey: Guid(c924f4719ce4d6242a0057ec80cf0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Textures/rust_key_Normal.png using Guid(c924f4719ce4d6242a0057ec80cf0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bde461150ed588b9c51693ed0f3e784') in 0.047679 seconds
+  Import took 0.062867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Rust Key/Materials/rust_key_standard.mat
+  artifactKey: Guid(c4ce38443ffac714c82a4b78c56ea38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Materials/rust_key_standard.mat using Guid(c4ce38443ffac714c82a4b78c56ea38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27aeed03a061b22d5070bd61414adc5a') in 0.092658 seconds
+  Import took 0.133662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Rust Key/Materials/rust_key_autodesk.mat
+  artifactKey: Guid(1a7c6b13b8983fa4bbfb1dbfbb5fef57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Materials/rust_key_autodesk.mat using Guid(1a7c6b13b8983fa4bbfb1dbfbb5fef57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51cab1adbf5f13997c22776a5e819344') in 0.033945 seconds
+  Import took 0.049983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Materials/prop_keycard_glass_mat.mat
+  artifactKey: Guid(e8c588fe56f5ea844b2da2485b093b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Materials/prop_keycard_glass_mat.mat using Guid(e8c588fe56f5ea844b2da2485b093b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdcb87d02489edbb203a7621d7dca70') in 0.054502 seconds
+  Import took 0.067040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Models/prop_keycard.fbx
+  artifactKey: Guid(e645b4c665b69d44786c3ad6098a3d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Models/prop_keycard.fbx using Guid(e645b4c665b69d44786c3ad6098a3d91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a820960f98b42bf9f88ccbc3e73be03') in 0.363724 seconds
+  Import took 0.385682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Rust Key/Materials
+  artifactKey: Guid(1f4f8e580d5a7404dbb2b077e4cdc27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Materials using Guid(1f4f8e580d5a7404dbb2b077e4cdc27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2003506f2f61f9a8674533f0d60013') in 0.012795 seconds
+  Import took 0.021027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000974 seconds.
+  path: Assets/Rust Key/Mesh
+  artifactKey: Guid(f955c40fdedbcd44c81021b1b657ce57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Mesh using Guid(f955c40fdedbcd44c81021b1b657ce57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae174de3070cbc01d005d4911323c9db') in 0.011728 seconds
+  Import took 0.021935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Rust Key/Textures
+  artifactKey: Guid(8a41d48411dedd14fa89781315cfd94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Textures using Guid(8a41d48411dedd14fa89781315cfd94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6b83d0e776d309da2250223118fa15') in 0.008200 seconds
+  Import took 0.034847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Rust Key/Prefabs
+  artifactKey: Guid(51583b4ac38b90748b20a384ff8098db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Prefabs using Guid(51583b4ac38b90748b20a384ff8098db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08e999ccfc8ffb5fef57ffa8642f6412') in 0.009571 seconds
+  Import took 0.019745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Rust Key/Scene
+  artifactKey: Guid(4c1e3a14ff99f4149a1f89be82fa7afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Scene using Guid(4c1e3a14ff99f4149a1f89be82fa7afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df00ff7eed85b328c964b362d8a3609c') in 0.019137 seconds
+  Import took 0.037589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Textures/prop_keycard_nrm.tif
+  artifactKey: Guid(7f5280223ed29d04ab50ecbb9298c6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Full Body FPS Controller/Full Body FPS Controller/Standard Assets/Unity - Stealth Tut/Textures/prop_keycard_nrm.tif using Guid(7f5280223ed29d04ab50ecbb9298c6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff6f76822b9ab6ed432c9ded36fd39c') in 0.020859 seconds
+  Import took 0.026684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Rust Key/Mesh/rust_key.FBX
+  artifactKey: Guid(0669f3d8f4b119f418a4bbe061cc198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Mesh/rust_key.FBX using Guid(0669f3d8f4b119f418a4bbe061cc198f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7159e938f6fe8c7e9b535828a55914') in 0.033141 seconds
+  Import took 0.081698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.388577 seconds.
+  path: Assets/Rust Key/Scene/Demo.unity
+  artifactKey: Guid(e4bd0f8c766747149a5887108bf32a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Scene/Demo.unity using Guid(e4bd0f8c766747149a5887108bf32a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4236bcce67ff6cad039d33bf75bb6bd4') in 0.015660 seconds
+  Import took 0.041304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Rust Key/Scene/Skybox_scene.mat
+  artifactKey: Guid(f7c448eb1675ff1419db74ccec2fba68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rust Key/Scene/Skybox_scene.mat using Guid(f7c448eb1675ff1419db74ccec2fba68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8765121e4aacc78d7334d0add65f7c0') in 0.422581 seconds
+  Import took 0.445948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.661596 seconds.
+  path: Assets/Prefabs/collectibles
+  artifactKey: Guid(20b6bab4c8b3d814fb9434f7bb3edd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/collectibles using Guid(20b6bab4c8b3d814fb9434f7bb3edd81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e491a06d9e2212fb688c5e1bd4d04a83') in 0.013105 seconds
+  Import took 0.045922 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008618 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 133.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  1.809 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.052029 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  1.703 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3032.
+Total: 3.515700 ms (FindLiveObjects: 0.570800 ms CreateObjectMapping: 0.240200 ms MarkObjects: 2.491900 ms  DeleteObjects: 0.210700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.997576 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034921a4c9f88228e7a66fb0dca5b2e8') in 0.046638 seconds
+  Import took 0.070631 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008923 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 134.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.072 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016425 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  1.888 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3032.
+Total: 3.030900 ms (FindLiveObjects: 0.508200 ms CreateObjectMapping: 0.150800 ms MarkObjects: 2.107100 ms  DeleteObjects: 0.263300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 697.238299 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/background.png
+  artifactKey: Guid(b38f1555bc2bc5246a7c1a87e231e51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/background.png using Guid(b38f1555bc2bc5246a7c1a87e231e51c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd500d755176ef8550f1360ebaf1e7d71') in 0.159664 seconds
+  Import took 0.209668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page2.png
+  artifactKey: Guid(fca57dd61c151c649adcbc7ba39e71bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page2.png using Guid(fca57dd61c151c649adcbc7ba39e71bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73fd54071da4e18d2dd963170b28572b') in 0.027410 seconds
+  Import took 0.044748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page7.png
+  artifactKey: Guid(a8371807677c9624f95debc13138fe33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page7.png using Guid(a8371807677c9624f95debc13138fe33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e51519598b4da5d690acac2165039912') in 0.026612 seconds
+  Import took 0.051559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page1.png
+  artifactKey: Guid(9f1ddd79b2fa5444b9f0150b809a8dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page1.png using Guid(9f1ddd79b2fa5444b9f0150b809a8dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ea3564ebc6723e1440f18f1b8780c0') in 0.024715 seconds
+  Import took 0.084168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/shadowLTR.png
+  artifactKey: Guid(1ddd2406e37c66e4aa67410433cd3f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/shadowLTR.png using Guid(1ddd2406e37c66e4aa67410433cd3f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63565774094a4b4248e17b64c5a932d') in 0.026242 seconds
+  Import took 0.043575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page0.png
+  artifactKey: Guid(b1bac3987b1ad064a80f72496ee46425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page0.png using Guid(b1bac3987b1ad064a80f72496ee46425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbce9512cc6cd80b3149a3f6227d8d94') in 0.028972 seconds
+  Import took 0.057682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/leather.jpg
+  artifactKey: Guid(baf9754d54132a547a25e65b23c343fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/leather.jpg using Guid(baf9754d54132a547a25e65b23c343fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9708e29880b5282a512be32520ed824') in 0.049672 seconds
+  Import took 0.079861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page4.png
+  artifactKey: Guid(b0c18c676ab4d4343adc234472e1d618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page4.png using Guid(b0c18c676ab4d4343adc234472e1d618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b32e57b5e58e214ee558cc097f2ed0') in 0.026228 seconds
+  Import took 0.037596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/le.jpg
+  artifactKey: Guid(2aa3f7dab8e4b2547a6fe4513f0cb58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/le.jpg using Guid(2aa3f7dab8e4b2547a6fe4513f0cb58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa754769efc809b77e4466b5b892abc5') in 0.035990 seconds
+  Import took 0.042246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page5.png
+  artifactKey: Guid(86cccff4f962a034c841b8a741b9d50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page5.png using Guid(86cccff4f962a034c841b8a741b9d50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3846fcbed58ae5d908c95698c451c738') in 0.024861 seconds
+  Import took 0.031799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page3.png
+  artifactKey: Guid(b85050c83db242e4eafba8f57eb350d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page3.png using Guid(b85050c83db242e4eafba8f57eb350d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3186c128db4f1f407df5b0a3d7ee99a5') in 0.024761 seconds
+  Import took 0.038397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/page6.png
+  artifactKey: Guid(9ad9c7be1dcdd6d45ab6e643fc600a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/page6.png using Guid(9ad9c7be1dcdd6d45ab6e643fc600a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a75932833c973f70986f36c611e3c7') in 0.024840 seconds
+  Import took 0.032032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/shadow.png
+  artifactKey: Guid(d48ea1842ab4b3c409d04d8f603d06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/shadow.png using Guid(d48ea1842ab4b3c409d04d8f603d06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23477662065ea0f465833dd2853cbe8f') in 0.023551 seconds
+  Import took 0.048066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/TransparentGraybackgtound.png
+  artifactKey: Guid(3c47abcf3fb3d12408efe3073b2e379f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/TransparentGraybackgtound.png using Guid(3c47abcf3fb3d12408efe3073b2e379f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dee3446981d18692b2f1ad4a9816f86') in 0.026176 seconds
+  Import took 0.050512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/shadow.png
+  artifactKey: Guid(d48ea1842ab4b3c409d04d8f603d06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/shadow.png using Guid(d48ea1842ab4b3c409d04d8f603d06bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23477662065ea0f465833dd2853cbe8f') in 0.020918 seconds
+  Import took 0.066814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Book-Page Curl/Example/sprites/texture_livre.png
+  artifactKey: Guid(88ad93bf12bf16249be44b715798e8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Book-Page Curl/Example/sprites/texture_livre.png using Guid(88ad93bf12bf16249be44b715798e8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '306e33577e90c7890f744e09665c9007') in 0.046615 seconds
+  Import took 0.071075 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007084 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 568.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.924 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.068494 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.202 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3041.
+Total: 3.365500 ms (FindLiveObjects: 0.516800 ms CreateObjectMapping: 0.128400 ms MarkObjects: 2.500800 ms  DeleteObjects: 0.217700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.093460 seconds.
+  path: Assets/Scripts/Objets_Interactifs
+  artifactKey: Guid(e8110ee498e14494fbe46b71400a42c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Objets_Interactifs using Guid(e8110ee498e14494fbe46b71400a42c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bad1a9c32dce76eb327b9821bf98fa0') in 0.017028 seconds
+  Import took 0.035633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.981380 seconds.
+  path: Assets/Scripts/Objets_Interactifs/Target.cs
+  artifactKey: Guid(0eac21ca4ebbd41468c4b6c26457b938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Objets_Interactifs/Target.cs using Guid(0eac21ca4ebbd41468c4b6c26457b938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a810e0deb6c4118170c4c6fd53650eb6') in 0.047485 seconds
+  Import took 0.074740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.910417 seconds.
+  path: Assets/Scripts/Objets_Interactifs/Key.cs
+  artifactKey: Guid(e4c917bdec9266d479ba7abe7401df57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Objets_Interactifs/Key.cs using Guid(e4c917bdec9266d479ba7abe7401df57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f106c71debc1d1566522b78eb2d324d8') in 0.010218 seconds
+  Import took 0.122777 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009528 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3444.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  6.032 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.341353 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.628 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3042.
+Total: 3.754100 ms (FindLiveObjects: 0.469500 ms CreateObjectMapping: 0.115800 ms MarkObjects: 2.652100 ms  DeleteObjects: 0.514700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.233067 seconds.
+  path: Assets/Scripts/Objets_Interactifs/Key.cs
+  artifactKey: Guid(e4c917bdec9266d479ba7abe7401df57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Objets_Interactifs/Key.cs using Guid(e4c917bdec9266d479ba7abe7401df57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '511481332937b8c582e69049a7d5ede8') in 0.010449 seconds
+  Import took 0.028065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.801999 seconds.
+  path: Assets/Scripts/Canvas_joueur
+  artifactKey: Guid(04e672c9e4845e44abf25ac5000b0b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas_joueur using Guid(04e672c9e4845e44abf25ac5000b0b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0c4132c5af66dd1cfcd361eea05d0f') in 0.028257 seconds
+  Import took 0.048675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.846142 seconds.
+  path: Assets/Scripts/Canvas_joueur/KeyManager.cs
+  artifactKey: Guid(a0968050e0793ae408f1e58576d51135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Canvas_joueur/KeyManager.cs using Guid(a0968050e0793ae408f1e58576d51135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa8e223552acc89a56acd5fd104dcf05') in 0.015366 seconds
+  Import took 0.042414 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009370 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 535.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.930 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.129550 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  2.775 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3043.
+Total: 3.353700 ms (FindLiveObjects: 0.474600 ms CreateObjectMapping: 0.123800 ms MarkObjects: 2.529400 ms  DeleteObjects: 0.223800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 496.491717 seconds.
+  path: Assets/Prefabs/Canvas_joueur
+  artifactKey: Guid(ad0c4ef363bd742449d0fb3b9f0a013d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Canvas_joueur using Guid(ad0c4ef363bd742449d0fb3b9f0a013d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c4f387a76991bd1c0e5d259ad20b3e') in 0.012073 seconds
+  Import took 0.032784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.537131 seconds.
+  path: Assets/Prefabs/Canvas_joueur/Canvas_joueur.prefab
+  artifactKey: Guid(6738624ad9c068b47b55cef2a84c9944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Canvas_joueur/Canvas_joueur.prefab using Guid(6738624ad9c068b47b55cef2a84c9944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e02053e996c0b067a41448a0b34bb34') in 0.621686 seconds
+  Import took 0.641340 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008163 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 953.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.855 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.139245 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  5.024 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 11.659400 ms (FindLiveObjects: 0.632400 ms CreateObjectMapping: 0.217400 ms MarkObjects: 10.356600 ms  DeleteObjects: 0.450800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007260 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 164.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  5.146 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.022480 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  7.411 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 9.574900 ms (FindLiveObjects: 0.921800 ms CreateObjectMapping: 1.574100 ms MarkObjects: 6.854400 ms  DeleteObjects: 0.222200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008401 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 148.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  5.535 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.145282 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  6.543 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 4.986400 ms (FindLiveObjects: 1.046300 ms CreateObjectMapping: 0.203300 ms MarkObjects: 3.482000 ms  DeleteObjects: 0.252700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008611 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 161.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.313 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016348 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in 10.078 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 12.432200 ms (FindLiveObjects: 2.797000 ms CreateObjectMapping: 0.309000 ms MarkObjects: 9.025000 ms  DeleteObjects: 0.299200 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011477 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 248.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  5.373 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.018648 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in 10.471 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 20.877000 ms (FindLiveObjects: 9.235300 ms CreateObjectMapping: 0.425400 ms MarkObjects: 10.968500 ms  DeleteObjects: 0.244300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 889.216847 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3527a69c773c2e5088379eb67816c86') in 0.110558 seconds
+  Import took 0.126539 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007921 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 172.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  3.615 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015226 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.790 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 3.375900 ms (FindLiveObjects: 0.509700 ms CreateObjectMapping: 0.139500 ms MarkObjects: 2.480300 ms  DeleteObjects: 0.243700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007887 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 231.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  8.461 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.017177 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.429 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 5.006200 ms (FindLiveObjects: 0.503000 ms CreateObjectMapping: 0.174900 ms MarkObjects: 4.041700 ms  DeleteObjects: 0.284800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008578 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 151.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.162 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015648 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  5.720 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 3.690000 ms (FindLiveObjects: 0.525600 ms CreateObjectMapping: 0.189000 ms MarkObjects: 2.715400 ms  DeleteObjects: 0.257100 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.023841 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 165.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  6.446 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013472 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 8.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in 10.885 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 13.634500 ms (FindLiveObjects: 1.667500 ms CreateObjectMapping: 0.978700 ms MarkObjects: 10.442000 ms  DeleteObjects: 0.543400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010290 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 167.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in 10.068 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015951 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  8.247 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 3.665100 ms (FindLiveObjects: 0.623600 ms CreateObjectMapping: 0.146500 ms MarkObjects: 2.626700 ms  DeleteObjects: 0.265900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010887 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 149.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  8.408 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015389 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  4.773 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
+System memory in use after: 77.1 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 9.721200 ms (FindLiveObjects: 0.556300 ms CreateObjectMapping: 0.160900 ms MarkObjects: 4.693600 ms  DeleteObjects: 4.307500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008260 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 348.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in 16.157 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.061854 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  8.553 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 8.465500 ms (FindLiveObjects: 1.419200 ms CreateObjectMapping: 0.265500 ms MarkObjects: 6.432700 ms  DeleteObjects: 0.345700 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008071 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 224.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  7.961 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016934 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  6.940 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.3 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3079.
+Total: 4.311700 ms (FindLiveObjects: 0.926000 ms CreateObjectMapping: 0.215100 ms MarkObjects: 2.833600 ms  DeleteObjects: 0.334900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2566.863723 seconds.
+  path: Assets/Prefabs/collectibles/key0.prefab
+  artifactKey: Guid(ed2180e6e3d7e164ca75c49a17c87629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/collectibles/key0.prefab using Guid(ed2180e6e3d7e164ca75c49a17c87629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2db9b8900c74a52bc5df449a921360d6') in 0.650490 seconds
+  Import took 0.678658 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009836 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 172.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  6.440 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.015438 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  6.322 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.3 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3115.
+Total: 3.188600 ms (FindLiveObjects: 0.443700 ms CreateObjectMapping: 0.106800 ms MarkObjects: 2.406500 ms  DeleteObjects: 0.229600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 307.880177 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781004d9e58c98595931a72a634f1583') in 0.064157 seconds
+  Import took 0.091127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.782500 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(bec48fcf9ad7efc4db4e0eecc50205ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86fc62662ad66b3e440c45dce8ff760') in 0.018854 seconds
+  Import took 0.056757 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007498 seconds.
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 194.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  8.012 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.069001 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  7.390 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.4 MB.
+System memory in use after: 77.3 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 3115.
+Total: 3.867800 ms (FindLiveObjects: 0.720700 ms CreateObjectMapping: 0.201500 ms MarkObjects: 2.704600 ms  DeleteObjects: 0.238700 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
-=======
-- Completed reload, in  2.186 seconds
-Platform modules already initialized, skipping
->>>>>>> master
