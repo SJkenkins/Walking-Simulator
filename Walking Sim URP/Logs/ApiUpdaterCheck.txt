@@ -88,3 +88,53 @@ C# parse time         : 302ms
 candidates check time : 39ms
 console write time    : 0ms
 
+[api-updater (non-obsolete-error-filter)] 27/11/2020 09:58:53 : Starting D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 768,1838ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 487ms
+candidates check time : 106ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27/11/2020 10:02:03 : Starting D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 613,8732ms
+moved types parse time: 81ms
+candidates parse time : 2ms
+C# parse time         : 262ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27/11/2020 10:05:34 : Starting D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150,8459ms
+moved types parse time: 83ms
+candidates parse time : 1ms
+C# parse time         : 265ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27/11/2020 10:06:49 : Starting D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165,3409ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 270ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27/11/2020 10:07:19 : Starting D:/master/Platformer/Platformer/2020.2.0b10/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,9118ms
+moved types parse time: 73ms
+candidates parse time : 2ms
+C# parse time         : 278ms
+candidates check time : 57ms
+console write time    : 0ms
+
