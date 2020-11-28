@@ -737,14 +737,17 @@
     <ProjectReference Include="FMODUnity.csproj">
       <Project>{3505FAEB-F067-0E31-5651-44D179576159}</Project>
       <Name>FMODUnity</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="FMODUnityEditor.csproj">
       <Project>{6D06D056-1962-F3FC-6E8B-038A112FF77D}</Project>
       <Name>FMODUnityEditor</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="FMODUnityResonance.csproj">
       <Project>{B60928CF-A383-A011-5BEE-F5AFCC0D951F}</Project>
       <Name>FMODUnityResonance</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="FMODUnityResonanceEditor.csproj">
       <Project>{973B5C16-73AB-8572-7FA2-1585C3297202}</Project>
