@@ -13,6 +13,7 @@ public class Player_Interact : MonoBehaviour
     Target target;
 
     Key key;
+    Door door;
 
 
     // Start is called before the first frame update
@@ -31,10 +32,19 @@ public class Player_Interact : MonoBehaviour
             target = hit.transform.GetComponent<Target>();
             target.Shine();
 
-            if (Input.GetMouseButtonDown(0)== true && target.gameObject.layer == LayerMask.NameToLayer("Key"))
+            if (Input.GetMouseButtonDown(0)== true)
             {
-                key = hit.transform.GetComponent<Key>();
-                key.TakeKey();
+                if (target.gameObject.layer == LayerMask.NameToLayer("Key"))
+                {
+                    key = hit.transform.GetComponent<Key>();
+                    key.TakeKey();
+                }
+               
+
+                else if (target.gameObject.layer == LayerMask.NameToLayer("Door")) {
+                    door = hit.transform.GetComponent<Door>();
+                    door.OpenDoor();
+                }
             }
             
         }
