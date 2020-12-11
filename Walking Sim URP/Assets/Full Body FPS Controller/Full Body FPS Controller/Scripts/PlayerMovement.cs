@@ -15,8 +15,11 @@ namespace EasySurvivalScripts
     public class PlayerMovement : MonoBehaviour
     {
         public PlayerStates playerStates;
+        float _speed ;
+        Vector3 rightMovement;
+        Vector3 fwdMovement;
 
-        [Header("Inputs")]
+       [Header("Inputs")]
         public string HorizontalInput = "Horizontal";
         public string VerticalInput = "Vertical";
         public string RunInput = "Run";
@@ -74,11 +77,9 @@ namespace EasySurvivalScripts
             float hInput = Input.GetAxisRaw(HorizontalInput);
             float vInput = Input.GetAxisRaw(VerticalInput);
 
-            Vector3 fwdMovement = characterController.isGrounded == true ? transform.forward * vInput : Vector3.zero;
-            Vector3 rightMovement = characterController.isGrounded == true ? transform.right * hInput : Vector3.zero;
-
-            float _speed = Input.GetButton(RunInput) ? runSpeed : walkSpeed;
-            characterController.SimpleMove(Vector3.ClampMagnitude(fwdMovement + rightMovement, 1f) * _speed);
+         //   Vector3 fwdMovement = characterController.isGrounded == true ? transform.forward * vInput : Vector3.zero;
+         //  Vector3 rightMovement = characterController.isGrounded == true ? transform.right * hInput : Vector3.zero;
+           
 
             if (characterController.isGrounded)
                 Jump();
@@ -100,6 +101,12 @@ namespace EasySurvivalScripts
             }
             else
                 playerStates = PlayerStates.Jumping;
+
+            fwdMovement = transform.forward * vInput;
+            rightMovement = transform.right * hInput;
+
+            _speed = Input.GetButton(RunInput) ? runSpeed : walkSpeed;
+            characterController.SimpleMove(Vector3.ClampMagnitude(fwdMovement + rightMovement, 1f) * _speed);
         }
 
         void Jump()
@@ -121,7 +128,7 @@ namespace EasySurvivalScripts
 
             do
             {
-                characterController.Move(Vector3.up * _jump * Time.deltaTime);
+                characterController.Move(Vector3.up * _jump * Time.deltaTime + Vector3.ClampMagnitude(fwdMovement + rightMovement, 1f) * _speed * Time.deltaTime);
                 _jump -= Time.deltaTime;
                 yield return null;
             }
