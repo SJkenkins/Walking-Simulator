@@ -14,6 +14,7 @@ public class Player_Interact : MonoBehaviour
 
     Key key;
     Door door;
+    Page page;
 
 
     // Start is called before the first frame update
@@ -45,6 +46,13 @@ public class Player_Interact : MonoBehaviour
                     door = hit.transform.GetComponent<Door>();
                     door.OpenDoor();
                 }
+
+                else if (target.gameObject.layer == LayerMask.NameToLayer("Page"))
+                {
+                    page = hit.transform.GetComponent<Page>();
+                    page.TakePage();
+                }
+
             }
             
         }

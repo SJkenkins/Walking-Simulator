@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Page : MonoBehaviour
 {
+
+    public GameObject book;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -14,5 +17,10 @@ public class Page : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void TakePage()
+    {
+
     }
 }

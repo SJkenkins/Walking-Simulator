@@ -15,11 +15,11 @@ D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
 -logFile
 Logs/AssetImportWorker24.log
 -srvPort
-52821
+61516
 Successfully changed project path to: D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
 D:/master2/Walking-Simulator/Walking-Simulator/Walking Sim URP
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 112.73 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 169.29 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b13 (655e1a328b90)
 [Subsystems] Discovering subsystems at path D:/master/Platformer/Platformer/2020.2.0b13/Editor/Data/Resources/UnitySubsystems
@@ -36,21 +36,35 @@ Initialize mono
 Mono path[0] = 'D:/master/Platformer/Platformer/2020.2.0b13/Editor/Data/Managed'
 Mono path[1] = 'D:/master/Platformer/Platformer/2020.2.0b13/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/master/Platformer/Platformer/2020.2.0b13/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/master/Platformer/Platformer/2020.2.0b13/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/master/Platformer/Platformer/2020.2.0b13/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.129729 seconds.
+Registered in 0.002663 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 96.34 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 114.27 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.690 seconds
+- Completed reload, in  3.191 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.180645 seconds.
+Registered in 0.006757 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\master2\Walking-Simulator\Walking-Simulator\Walking Sim URP\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 96.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Mono: successfully reloaded assembly
+- Completed reload, in  1.743 seconds
+Platform modules already initialized, skipping
