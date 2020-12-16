@@ -14,6 +14,10 @@ public class Book : MonoBehaviour {
     RectTransform BookPanel;
     public Sprite background;
     public Sprite[] bookPages;
+    //ELISA
+    public Sprite[] bookPagesReplace;
+    //FIN ELISA
+
     public bool interactable=true;
     public bool enableShadowEffect=true;
     //represent the index of the sprite shown in the right page
