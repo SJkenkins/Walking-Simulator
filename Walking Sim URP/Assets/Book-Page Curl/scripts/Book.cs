@@ -407,4 +407,15 @@ public class Book : MonoBehaviour {
         if (onFinish != null)
             onFinish();
     }
+
+
+    // ELISA
+
+    public void ReplacePage(int nbPage)
+    {
+        Debug.Log(nbPage);
+        bookPages[nbPage]=bookPagesReplace[nbPage];
+    }
+
+
 }

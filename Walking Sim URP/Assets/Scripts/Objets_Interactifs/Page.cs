@@ -5,28 +5,24 @@ using UnityEngine;
 public class Page : MonoBehaviour
 {
 
-    public GameObject book;
-    public Texture[] textures;
-    public int currentTexture;
+   // public GameObject book;
+    /*public Texture[] textures;
+    public int currentTexture;*/
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public int nbPage;    
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public Book Book;
+
+
 
     public void TakePage()
     {
+        Book.ReplacePage(nbPage);
+        Destroy(gameObject);
 
-        currentTexture++;
-        currentTexture %= textures.Length;
-        GetComponent<Renderer>().material.mainTexture = textures[currentTexture];
+        /* currentTexture++;
+         currentTexture %= textures.Length;
+         GetComponent<Renderer>().material.mainTexture = textures[currentTexture]; */
 
     }
 }

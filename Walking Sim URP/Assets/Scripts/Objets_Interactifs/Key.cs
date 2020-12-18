@@ -4,13 +4,10 @@ using UnityEngine;
 
 public class Key : MonoBehaviour
 {
-    KeyManager KeyManager;
+    public KeyManager KeyManager;
     public GameObject this_key;
 
-    private void Start()
-    {
-        KeyManager = GameObject.FindGameObjectWithTag("Player").GetComponent<KeyManager>();
-    }
+
 
     public void TakeKey()
     {

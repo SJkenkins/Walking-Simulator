@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EasySurvivalScripts
-{
+//namespace EasySurvivalScripts
+
     public enum PlayerStates
     {
         Idle,
@@ -204,4 +204,3 @@ namespace EasySurvivalScripts
         }
 
     }
-}

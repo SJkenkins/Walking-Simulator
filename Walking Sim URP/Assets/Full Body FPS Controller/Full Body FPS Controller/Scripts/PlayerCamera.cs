@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EasySurvivalScripts
-{
+//namespace EasySurvivalScripts
+
     public enum CameraPerspective
     {
         FirstPerson,
@@ -165,4 +165,3 @@ namespace EasySurvivalScripts
                 Gizmos.DrawWireSphere(_tpsCameraHelper.position, 0.1f);
         }
     }
-}

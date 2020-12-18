@@ -7,6 +7,9 @@ public class BookMenu : MonoBehaviour
     public static bool PauseBook = false;
     public KeyCode OpenBookMenu;
 
+    public PlayerMovement playerMovement;
+    public PlayerCamera playerCamera;
+
     public GameObject BookMenuUI;
 
     // Update is called once per frame
@@ -27,15 +30,23 @@ public class BookMenu : MonoBehaviour
 
     void Resume()
     {
+        Cursor.lockState = CursorLockMode.Locked;
+        playerMovement.enabled = true;
+        playerCamera.enabled = true;
         BookMenuUI.SetActive(false);
-        Time.timeScale = 1f;
+       // Time.timeScale = 1f;
         PauseBook = false;
+
     }
 
     void Pause()
     {
+        Cursor.lockState = CursorLockMode.None;
         BookMenuUI.SetActive(true);
-        Time.timeScale = 0f;
+        playerMovement.enabled = false;
+        playerCamera.enabled = false;
+        // Time.timeScale = 0f;
         PauseBook = true;
+
     }
 }
